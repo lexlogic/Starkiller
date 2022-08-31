@@ -101,4 +101,4 @@ Detailed changes for each release are documented in the [release notes](https://
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2021 BC Security
+Copyright (c) 2022 BC Security
